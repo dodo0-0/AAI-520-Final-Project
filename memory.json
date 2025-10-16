@@ -1,0 +1,110 @@
+{
+    "AAPL": {
+        "last_run_date": "2025-09-14",
+        "data_summary": {
+            "news_count": 8,
+            "prices_fetched": true,
+            "financials_fetched": true
+        },
+        "reflection": {
+            "score": 92,
+            "feedback": "Data quality score: 92/100. High quality\u2014comprehensive coverage.",
+            "suggestions": [
+                "Implement FRED API for economic context."
+            ]
+        },
+        "report": {
+            "overall_recommendation": "Hold",
+            "optimization_note": "No refinement needed\u2014high quality.",
+            "news_analysis": {
+                "avg_sentiment": "NEGATIVE",
+                "sentiments": [
+                    "NEGATIVE",
+                    "POSITIVE",
+                    "POSITIVE",
+                    "NEGATIVE",
+                    "POSITIVE",
+                    "POSITIVE",
+                    "NEGATIVE",
+                    "NEGATIVE"
+                ],
+                "keywords": [
+                    "apple",
+                    "aapl",
+                    "stocks",
+                    "market",
+                    "upcoming",
+                    "berkshire",
+                    "shares",
+                    "holding",
+                    "elon",
+                    "musk"
+                ],
+                "summary": " apple remains conglomerate largest holding yahoo finance finance john hyland tracks tuesday top moving stocks biggest market stories . upcoming inflation data and federal reserve meeting are among the things investors should be watching"
+            },
+            "market_analysis": {
+                "trend": "Upward",
+                "last_close": 234.07000732421875,
+                "ma30": 227.56429494222004
+            },
+            "earnings_analysis": {
+                "latest_revenue": "391035000000.0"
+            }
+        }
+    },
+    "MSFT": {
+        "last_run_date": "2025-09-14",
+        "data_summary": {
+            "news_count": 10,
+            "prices_fetched": true,
+            "financials_fetched": true
+        },
+        "reflection": {
+            "score": 100,
+            "feedback": "Data quality score: 100/100. High quality\u2014comprehensive coverage.",
+            "suggestions": [
+                "Implement FRED API for economic context."
+            ]
+        },
+        "report": {
+            "overall_recommendation": "Hold",
+            "optimization_note": "No refinement needed\u2014high quality.",
+            "news_analysis": {
+                "avg_sentiment": "POSITIVE",
+                "sentiments": [
+                    "POSITIVE",
+                    "NEGATIVE",
+                    "POSITIVE",
+                    "NEGATIVE",
+                    "POSITIVE",
+                    "POSITIVE",
+                    "POSITIVE",
+                    "POSITIVE",
+                    "NEGATIVE",
+                    "POSITIVE"
+                ],
+                "keywords": [
+                    "microsoft",
+                    "cloud",
+                    "ai",
+                    "nasdaq",
+                    "msft",
+                    "fuel",
+                    "quantum",
+                    "momentum",
+                    "buy",
+                    "tech"
+                ],
+                "summary": " Nasdaq soun jumped 7 after afternoon session experienced continued positive sentiment . iReport: Share price jumped 7% in the afternoon session . qbts surges ahead rgti ibm microsoft nvidia fuel quantum momentum analysts seeing stronger upside ."
+            },
+            "market_analysis": {
+                "trend": "Downward",
+                "last_close": 509.8999938964844,
+                "ma30": 511.74452514648436
+            },
+            "earnings_analysis": {
+                "latest_revenue": "{'Tax Effect Of Unusual Items': -77217840.76294, '..."
+            }
+        }
+    }
+}
