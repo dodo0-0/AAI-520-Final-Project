@@ -3,9 +3,9 @@
 ## Project Overview
 This repository contains the final project for AAI-520, an autonomous AI agent called **InvestmentResearchAgent** that conducts stock analysis. The agent fetches data, processes it using NLP, evaluates quality, and generates investment reports with recommendations. It demonstrates agent functions (planning, tool use, self-reflection, learning) and workflow patterns (prompt chaining, routing, evaluator-optimizer).
 
-**Author**: [Your Name]  
+**Author**: Gaurav SS  
 **Date**: September 28, 2025  
-**Course**: AAI-520, University of [Your University]
+**Course**: AAI-520, University of Sandiego
 
 ## Objectives
 - **Input**: A stock symbol (e.g., AAPL).
